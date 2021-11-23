@@ -11,9 +11,9 @@
 
 ## My Github Status 🦸
 
-![](https://github-readme-stats.vercel.app/api?username=myt&show_icons=true&show_owner=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=mayaoting&show_icons=true&show_owner=true&count_private=true)
 
-![](https://activity-graph.herokuapp.com/graph?username=myt&theme=github)
+![](https://activity-graph.herokuapp.com/graph?username=mayaoting&theme=github)
 
 
 ## Thank you for the visit.
