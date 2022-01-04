@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 > **还有好多你不知道的，所以你不好奇吗？**
-
-做个终身学习者、技术分享者、生活记录者
+学习，运动，保持一个好的心态
 
 
 - 🍓 个人博客：https://mayaoting.github.io/front-end-article/
